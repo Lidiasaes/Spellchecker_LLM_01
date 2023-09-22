@@ -6,11 +6,16 @@ I prepared some data and also downloaded some public **datasets** from Kaggle:
 
 You will find:
 
-        · *archive.zip* : the dataset I downloaded from https://www.kaggle.com/datasets/bittlingmayer/spelling?resource=download&select=aspell.txt
-        · *.csv file*: a sample of mispelled sentences and well spelled sentences.
-        · *.py* : Python code to fine-tune a LLM and to evaluate it as well. I also used ChatGPT to improve/develop it.
+· *archive.zip* : the dataset I downloaded from https://www.kaggle.com/datasets/bittlingmayer/spelling?resource=download&select=aspell.txt
+
+· *.csv file*: a sample of mispelled sentences and well spelled sentences.
+
+· *.py* : Python code to fine-tune a LLM and to evaluate it as well. I also used ChatGPT to improve/develop it.
 
 
+
+__________________________________________________________
+__________________________________________________________
 
 Some other interesting and more advanced projects: 
 
