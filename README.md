@@ -5,5 +5,5 @@ I prepared some data and also downloaded some public datasets from Kaggle: https
 
 
 Some other interesting and more advanced projects: 
-NeuSpell: https://github.com/neuspell/neuspell#Datasets
-Spelling corrector: https://www.kaggle.com/datasets/bittlingmayer/spelling?resource=download&select=aspell.txt
+  -NeuSpell: https://github.com/neuspell/neuspell#Datasets
+  -Spelling corrector: https://www.kaggle.com/datasets/bittlingmayer/spelling?resource=download&select=aspell.txt
