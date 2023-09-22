@@ -10,7 +10,7 @@ You will find:
 
 · *.csv file*: a sample of mispelled sentences and well spelled sentences.
 
-· *.py* : Python code to fine-tune a LLM and to evaluate it as well. I also used ChatGPT to improve/develop it.
+· *.ipynb* : Python code to fine-tune a LLM and to evaluate it as well. I also used ChatGPT to improve/develop it.
 
 
 
