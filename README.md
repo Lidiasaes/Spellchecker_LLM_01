@@ -1,5 +1,5 @@
 # Spell-checker-LLMs
-I wanted to create a 'toy' spell checker by **fine-tuning** different LLMs models.
+I wanted to create a 'prototype' spell checker by **fine-tuning** different LLMs models.
 I prepared some data and also downloaded some public **datasets** from Kaggle: 
 
         https://www.kaggle.com/datasets/bittlingmayer/spelling?resource=download&select=aspell.txt
